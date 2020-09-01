@@ -1,7 +1,7 @@
 # Google-cloud-projects
 This repo contains cloud computing projects based on the Google Cloud Plartform 
 ### Hi there, I'm Tony
-[![Website]https://app.pluralsight.com/channels/details/14499953-2e00-4c45-87d8-e09c8e9746af)]
+
 
 ## I'm a Student, Teacher and a Developer !
 
